@@ -30,6 +30,11 @@ const CONTAINER_COLORS = new Map([
   ["red", "#ff613d"],
   ["pink", "#ff4bda"],
   ["purple", "#af51f5"],
+  //Custom
+  ["darkred", "#9c1c10"],
+  ["darkblue", "#165dff"],
+  ["grey", "#5a5a5a"],
+  ["black", "#101010"]
 ]);
 
 const CONTAINER_ICONS = new Set([

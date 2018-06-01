@@ -46,7 +46,12 @@ let gContainersManager = {
     "orange",
     "red",
     "pink",
-    "purple"
+    "purple",
+    //custom
+    "darkred",
+    "darkblue",
+    "grey",
+    "black"
   ],
 
   onLoad() {

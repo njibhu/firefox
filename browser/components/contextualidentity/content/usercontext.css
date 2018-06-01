@@ -38,6 +38,28 @@
   --identity-icon-color: #af51f5;
 }
 
+/** Custom **/
+[data-identity-color="darkred"] {
+  --identity-tab-color: #9c1c10;
+  --identity-icon-color: #9c1c10;
+}
+
+[data-identity-color="darkblue"] {
+  --identity-tab-color: #165dff;
+  --identity-icon-color: #165dff;
+}
+
+[data-identity-color="grey"] {
+  --identity-tab-color: #5a5a5a;
+  --identity-icon-color: #5a5a5a;
+}
+
+[data-identity-color="black"] {
+  --identity-tab-color: #101010;
+  --identity-icon-color: #101010;
+}
+
+
 [data-identity-icon="fingerprint"] {
   --identity-icon: url("resource://usercontext-content/fingerprint.svg");
 }
